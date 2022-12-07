@@ -1,4 +1,4 @@
-# Getting started with TensorFlow 2
+# Getting started with TensorFlow 2 🎓
 
 ![python version](https://img.shields.io/badge/python-3.8-blue?logo=python)
 
